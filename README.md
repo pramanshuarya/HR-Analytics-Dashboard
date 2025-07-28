@@ -1,2 +1,14 @@
-# HR-Analytics-Dashboard
-This project is an interactive HR Analytics Dashboard built using Tableau to visualize and analyze key human resource metrics. It helps HR teams and decision-makers understand workforce trends, identify attrition patterns, and make informed talent management decisions.
+# 👥 HR Analytics Dashboard
+
+A Tableau-based dashboard to visualize employee attrition and engagement trends using HR data.
+
+## Features
+- Attrition analysis across job roles, departments, and age groups
+- Gender and satisfaction level distributions
+- Interactive filters and KPI tracking
+
+## Tools Used
+Tableau, Excel
+
+## Link
+[View Live Dashboard](https://public.tableau.com/app/profile/pramanshu.arya/viz/HRanalyticsdashboard_17522270765790/Dashboard1)
